@@ -1,5 +1,4 @@
 
-D308 
 
 
 DiscoverDestiny:
@@ -85,7 +84,6 @@ supports a minimum Android version of 26 (Android 8.0 Oreo), and is targeted tow
 
 GIT REPOSITORY:
 
-https://gitlab.com/wgu-gitlab-environment/student-repos/jros623/d308-mobile-application-development-android.git
 
 _________________________________________________________________________________________________________________________________________________
 
